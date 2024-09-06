@@ -6,3 +6,4 @@ git commit -m
 git log
 git config --globle user.name""
 git config --globel user.email""
+git checkout -b 
